@@ -14,3 +14,9 @@ A Python-based movie recommendation app that analyzes Letterboxd user data and s
 - Pandas
 - scikit-learn
 - TMDB API
+- Requests
+
+## Run locally
+
+```bash
+streamlit run app.py
